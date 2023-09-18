@@ -1,2 +1,2 @@
-# go-firstProject
-# go-firstProject
+# go-rss aggregator
+
